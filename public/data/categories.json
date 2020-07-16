@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Programming languages",
+      "categories": [
+        {
+          "name": "JavaScript"
+        },
+        {
+          "name": "Rust"
+        },
+        {
+          "name": "Golang"
+        },
+        {
+          "name": "Python"
+        },
+        {
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "name": "Frameworks & Libaries",
+      "categories": [
+        {
+          "name": "React"
+        },
+        {
+          "name": "Vue"
+        },
+        {
+          "name": "Svelte"
+        },
+        {
+          "name": "Angular"
+        },
+        {
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "name": "Browser",
+      "categories": [
+        {
+          "name": "Chrome"
+        },
+        {
+          "name": "Firefox"
+        },
+        {
+          "name": "Opera"
+        },
+        {
+          "name": "Edge"
+        },
+        {
+          "name": "Safari"
+        }
+      ]
+    }
+  ]
